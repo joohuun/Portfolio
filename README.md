@@ -20,7 +20,7 @@
 > 
 > __개발인원: 4명(팀프로젝트)__   
 > __기술스택:__   
-> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-ffffff?style=for-the-badge&logo=FastAPI"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white""> 
+> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-ffffff?style=for-the-badge&logo=FastAPI"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> 
 
 ### 2. 유남샘(You konw what i'm saying)
 
