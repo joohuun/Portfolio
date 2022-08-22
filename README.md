@@ -5,9 +5,9 @@
 
 ## 📌 Contact
 [Title](link)
-- [이메일](k00005781@gmail.com)
-- [블로그](https://1q2w3ee.tistory.com/)
-- [깃헙](https://github.com/joohuun/)
+- [k00005781@gmail.com](k00005781@gmail.com)
+- [https://1q2w3ee.tistory.com](https://1q2w3ee.tistory.com/)
+- [https://github.com/joohuun](https://github.com/joohuun/)
 
 ## 📌 Projects
 
