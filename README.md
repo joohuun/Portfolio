@@ -20,7 +20,7 @@
 > 
 > __개발인원: 4명(팀프로젝트)__   
 > __기술스택:__   
-> __Django / FastAPI / __   
+> __Django / FastAPI /__   
 
 ### 2. 유남샘(You konw what i'm saying)
 
