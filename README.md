@@ -21,7 +21,7 @@
 > __개발인원: 4명(팀프로젝트)__   
 > __기술스택:__   
 > __Django / FastAPI /__   
-> <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">   
+> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 
 ### 2. 유남샘(You konw what i'm saying)
 
