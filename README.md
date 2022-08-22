@@ -14,7 +14,7 @@
 ## 📌 Projects
 
 
-### 1. Petrasch
+### 1. Petrasch(애견커뮤니티)
 
 ### 2. 유남샘(You konw what i'm saying)
 
