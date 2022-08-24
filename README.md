@@ -22,8 +22,8 @@
 > __기술스택__   
 > 
 > <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-ffffff?style=for-the-badge&logo=FastAPI"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazon s3&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"> <img src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=Docker&logoColor=2496ED">
-> 프로젝트 상세보기(Backend): [https://github.com/Super-fast-decision-making/Petrasche_back](https://github.com/Super-fast-decision-making/Petrasche_back)   
-> 프로젝트 상세보기(Frontend): [https://github.com/Super-fast-decision-making/Petrasche_front](https://github.com/Super-fast-decision-making/Petrasche_front)   
+> [프로젝트 상세보기(Backend): ](https://github.com/Super-fast-decision-making/Petrasche_back)   
+> [프로젝트 상세보기(Frontend): ](https://github.com/Super-fast-decision-making/Petrasche_front)   
 
 ### 2. 유남샘(You konw what i'm saying)
 
