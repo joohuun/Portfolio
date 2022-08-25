@@ -26,5 +26,10 @@
 > [프로젝트 상세보기(Frontend)](https://github.com/Super-fast-decision-making/Petrasche_front)   
 
 ### 2. 유남샘(You konw what i'm saying)
+> __Text-TO-Image__   
+> __개발기간: 2022.06.28 ~ 2022.07.05__   
+> __개발인원: 4명(팀프로젝트)__   
+>
+> __기술스택__
 
 ### 3. Netfixe(추천시스템)
