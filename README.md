@@ -46,6 +46,6 @@
 >
 > <img src="https://img.shields.io/badge/Python3-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">   
-> [프로젝트 상세보기](https://github.com/joohuun/team_django_netflix)  
+> [프로젝트 상세보기](https://github.com/joohuun/django_netflix)  
 
 
