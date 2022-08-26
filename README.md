@@ -37,7 +37,7 @@
 > [프로젝트 상세보기(Backend)](https://github.com/joohuun/Unamsang_back)   
 > [포로젝트 상세보기(Frontend)](https://github.com/Super-fast-decision-making/Unamsang_front)   
 
-### 3. Netfixe(추천시스템)   
+### 3. Netflix(추천시스템)   
 > __Netflix__   
 > __개발기간: 2022.06.02 ~ 2022.06.14   
 > __개발인원: 4명(팀프로젝트)__   
