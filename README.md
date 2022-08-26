@@ -26,7 +26,7 @@
 > [프로젝트 상세보기(Frontend)](https://github.com/Super-fast-decision-making/Petrasche_front)   
 > [프로젝트 상세보기(AI-FastAPI)](https://github.com/Super-fast-decision-making/Petrasche_classification) 
 
-### 2. 유남생(You konw what i'm saying)
+### 2. 유남생(You know what i'm saying)
 > __Text-TO-Image__   
 > __개발기간: 2022.06.28 ~ 2022.07.05__   
 > __개발인원: 4명(팀프로젝트)__   
