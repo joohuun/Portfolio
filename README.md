@@ -39,7 +39,7 @@
 
 ### 3. Netflix(추천시스템)   
 > __Netflix__   
-> __개발기간: 2022.06.02 ~ 2022.06.14   
+> __개발기간: 2022.06.02 ~ 2022.06.14__   
 > __개발인원: 4명(팀프로젝트)__   
 >
 > __기술스택__   
@@ -50,8 +50,8 @@
 
   
 ### 4. 가계부API(미니프로젝트)   
-> __개발기간: 2022.09.06 ~ 2022.09.13   
-> __개발인원: 1명(개인프로젝트)     
+> __개발기간: 2022.09.06 ~ 2022.09.13__       
+> __개발인원: 1명(개인프로젝트)__   
 >      
 > __기술스택__     
 > <img src="https://img.shields.io/badge/Python3-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"> <img src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=Docker&logoColor=2496ED"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">   
